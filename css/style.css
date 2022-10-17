@@ -1,0 +1,24 @@
+header {
+  background: rebeccapurple;
+}
+header nav {
+  font-size: 88px;
+}
+header logo {
+  display: block;
+}
+
+footer {
+  font-size: 18px;
+}
+footer .copyright {
+  background: orange;
+  font-family: "Courier New", Courier, monospace;
+}
+
+ul {
+  margin: 0 auto;
+  background: red;
+  height: 50px;
+  width: 100px;
+}
